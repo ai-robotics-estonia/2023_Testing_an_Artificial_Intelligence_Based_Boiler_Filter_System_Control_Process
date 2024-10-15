@@ -20,7 +20,7 @@
 The project aims to create a highly durable power supply unit for electrofilters, utilizing digital feedback and machine learning capabilities. For this purpose, the Mitsubishi FX5U series PLC was selected to generate a pulse power signal, with a feedback speed of under 1 ms. The example demonstrates how to control a pulse power supply (half-bridge power supply) using two high-speed outputs (Y1 and Y2). The transformer is not equipped with a permanent load, and to protect the system, idle parameters are learned in advance.
 
 ![backend-architecture](https://github.com/ai-robotics-estonia/Testing_an_Artificial_Intelligence_Based_Boiler_Filter_System_Control_Process/blob/main/diagram%20of%20the%20filter%20system.jpg)
-
+Figure 1
 ## Activities and Results of the Demonstration Project
 ### Challenge
 Since the device needs to be used in different environments and conditions, it is not possible to manually tune the device for each installation. The outputs of the control system depend on the filter's capacitance, which varies with the environment. Therefore, we implemented a solution designed to last long-term (expected 30–50 years). The power system is controlled by a PLC (industrial computer) through its pulse train outputs (PTO) (Figure 2). All data processing (including machine learning) is done at the PLC level. Since the device must be able to operate under cyclic heating, one crucial control function is the device's ability to quickly recover after a restart or power outage. This ensures the device returns to the previously learned long-term stable values (temperature/PTO) (Figure 1).
@@ -48,7 +48,7 @@ During laboratory testing and trials, it was found that our solution is capable 
 - etc... .
 
 ![backend-architecture](https://github.com/ai-robotics-estonia/Testing_an_Artificial_Intelligence_Based_Boiler_Filter_System_Control_Process/blob/main/PLC%20program%20diagram.jpg)
-
+Figure 2
 
 ### User Interface 
 
