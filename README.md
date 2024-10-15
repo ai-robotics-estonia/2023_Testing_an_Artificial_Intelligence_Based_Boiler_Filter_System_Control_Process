@@ -49,22 +49,15 @@ During laboratory testing and trials, it was found that our solution is capable 
 
 
 ### User Interface 
-*Please describe the details about the user interface(i.e, how does the client 'see' the technical result, whether a separate user interface was developed, command line script was developed, was it validated as an experiment, can the results be seen in ERP or are they integrated into work process)*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The user can continuously monitor the process (voltage and effective voltage) and learning parameters on the screen (HMI). During the process, additional readings were added to the system created in the previous project. The user can create and modify parameters if they have configuration rights.
 
 ### Future Potential of the Technical Solution
-*Please describe the potential areas for future use of the technical solution.*
-- [Use case 1],
-- [Use case 2],
-- etc... .
+
+The sample solution is instructive in many fields, as no analogously controlled power device has been created before. The software solution can be reused in multiple scenarios. Since it is essential for the device to measure rapid changes in voltage and current at the output, there is only a rectifier in the high-voltage transformer output, which does not contain additional loads or capacitances. This provides a significant opportunity to create devices with digital feedback that have very high efficiency and low idle costs.
 
 ### Lessons Learned
-*Please describe the lessons learned (i.e. assessment whether the technological solution actually solved the initial challenge).*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Both the company and the developers are satisfied with the results of this solution. The results were even surprising, as such digital feedback transformer control has not been described anywhere before.
 
-# Custom agreement with the AIRE team
-*If you have a unique project or specific requirements that don't fit neatly into the Docker file or description template options, we welcome custom agreements with our AIRE team. This option allows flexibility in collaborating with us to ensure your project's needs are met effectively.*
 
-*To explore this option, please contact our demonstration projects service manager via katre.eljas@taltech.ee with the subject line "Demonstration Project Custom Agreement Request - [Your Project Name]." In your email, briefly describe your project and your specific documentation or collaboration needs. Our team will promptly respond to initiate a conversation about tailoring a solution that aligns with your project goals.*
