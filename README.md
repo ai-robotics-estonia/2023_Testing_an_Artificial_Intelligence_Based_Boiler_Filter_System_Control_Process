@@ -5,7 +5,7 @@
 ## Summary
 | Company Name | [Company](https://website.link) |
 | :--- | :--- |
-| Development Team Lead Name | [Dr. John Smith](https://profile.link) |
+| Development Team Lead Name | [Tauri Tätte](https://profile.link) |
 | Development Team Lead E-mail | [email@example.com](mailto:email@example.com) |
 | Duration of the Demonstration Project | month/year-month/year |
 | Final Report | [Example_report.pdf](https://github.com/ai-robotics-estonia/_project_template_/files/13800685/IC-One-Page-Project-Status-Report-10673_PDF.pdf) |
