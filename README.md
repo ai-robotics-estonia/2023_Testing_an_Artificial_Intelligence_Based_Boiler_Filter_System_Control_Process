@@ -1,6 +1,6 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# [Demonstration Project title]
+# [Development of the control process for an artificial intelligence-based boiler filter system]
 
 ## Summary
 | Company Name | [University of Tartu](https://website.link) |
