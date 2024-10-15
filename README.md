@@ -47,7 +47,7 @@ During laboratory testing and trials, it was found that our solution is capable 
 - [Component 2], 
 - etc... .
 
-![backend-architecture](https://github.com/ai-robotics-estonia/_project_template_/assets/15941300/6d405b21-3454-4bd3-9de5-d4daad7ac5b7)
+![backend-architecture](https://github.com/ai-robotics-estonia/Testing_an_Artificial_Intelligence_Based_Boiler_Filter_System_Control_Process/blob/main/PLC%20program%20diagram.jpg)
 
 
 ### User Interface 
