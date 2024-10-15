@@ -3,10 +3,10 @@
 # [Demonstration Project title]
 
 ## Summary
-| Company Name | [Company](https://website.link) |
+| Company Name | [University of Tartu](https://website.link) |
 | :--- | :--- |
 | Development Team Lead Name | [Tauri Tätte](https://profile.link) |
-| Development Team Lead E-mail | [email@example.com](mailto:email@example.com) |
+| Development Team Lead E-mail | [tauri@ut.ee](mailto:tauri@ut.ee) |
 | Duration of the Demonstration Project | month/year-month/year |
 | Final Report | [Example_report.pdf](https://github.com/ai-robotics-estonia/_project_template_/files/13800685/IC-One-Page-Project-Status-Report-10673_PDF.pdf) |
 
