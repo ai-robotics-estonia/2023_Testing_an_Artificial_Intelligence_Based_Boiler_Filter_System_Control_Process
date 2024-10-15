@@ -17,7 +17,7 @@
 # Description
 ## Objectives of the Demonstration Project
 
-The project aims to create a highly durable power supply unit for electrofilters, utilizing digital feedback and machine learning capabilities. For this purpose, the Mitsubishi FX5U series PLC was selected to generate a pulse power signal, with a feedback speed of under 1 ms. The example demonstrates how to control a pulse power supply (half-bridge power supply) using two high-speed outputs (Y1 and Y2). The transformer is not equipped with a permanent load, and to protect the system, idle parameters are learned in advance.
+The project aims to create a highly durable power supply unit for electrofilters, utilizing digital feedback and machine learning capabilities. For this purpose, the Mitsubishi FX5U (GX Works 3) series PLC was selected to generate a pulse power signal, with a feedback speed of under 1 ms. The example demonstrates how to control a pulse power supply (half-bridge power supply) using two high-speed outputs (Y1 and Y2). The transformer is not equipped with a permanent load, and to protect the system, idle parameters are learned in advance.
 
 ![backend-architecture](https://github.com/ai-robotics-estonia/Testing_an_Artificial_Intelligence_Based_Boiler_Filter_System_Control_Process/blob/main/diagram%20of%20the%20filter%20system.jpg)
 Figure 1
