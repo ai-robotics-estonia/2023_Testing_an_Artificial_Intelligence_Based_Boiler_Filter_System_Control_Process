@@ -1,12 +1,12 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# Development of the control process for an artificial intelligence-based boiler filter system
+# Validation of the control process for an artificial intelligence-based boiler filter system
 
 ## Summary
 | Company Name | Helmetal IMS OÜ (https://hims.ee/home/) |
 | :--- | :--- |
-| Development Team Lead Name | Tauri Tätte(https://profile.link) |
-| Development Team Lead E-mail | tauri@ut.ee(mailto:tauri@ut.ee) |
+| Development Team Lead Name | Tauri Tätte (https://profile.link) |
+| Development Team Lead E-mail | tauri@ut.ee (mailto:tauri@ut.ee) |
 | Duration of the Demonstration Project | September/2023 - May/2024 |
 | Final Report | [Example_report.pdf](https://github.com/ai-robotics-estonia/_project_template_/files/13800685/IC-One-Page-Project-Status-Report-10673_PDF.pdf) |
 
