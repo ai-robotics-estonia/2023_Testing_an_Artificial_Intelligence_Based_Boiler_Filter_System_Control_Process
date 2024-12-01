@@ -1,6 +1,6 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# Validation of the control process for an artificial intelligence-based boiler filter system
+# Testing of the control process for an artificial intelligence-based boiler filter system
 
 ## Summary
 | Company Name | Helmetal IMS OÜ (https://hims.ee/home/) |
